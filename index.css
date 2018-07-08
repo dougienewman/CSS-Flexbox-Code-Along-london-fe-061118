@@ -50,6 +50,7 @@ flex-direction: column;
 
 .setWidthB {
   flex: none;
+  align-self: flex-end;
 }
 
 .setWidthC {
