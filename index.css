@@ -49,7 +49,7 @@ flex-direction: column;
 }
 
 .setWidthB {
-  flex: initial;
+  flex: none;
 }
 
 .setWidthC {
