@@ -42,4 +42,7 @@ flex-direction: column;
   background-color: #FCF2EC;
 }
 
-
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
