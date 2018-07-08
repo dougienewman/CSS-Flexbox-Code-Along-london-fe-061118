@@ -47,3 +47,20 @@ flex-direction: column;
 .setWidthA {
   flex: auto;
 }
+
+.setWidthB {
+  flex: initial;
+}
+
+.setWidthC {
+  flex: auto;
+}
+
+.setWidthD {
+  flex: auto;
+}
+
+
+
+
+
