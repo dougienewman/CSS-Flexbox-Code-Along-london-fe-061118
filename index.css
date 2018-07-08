@@ -30,6 +30,10 @@ height: 100vh;
 flex-direction: column;
 }
 
-
+.item {
+  width: 100px;
+  height: 100px;
+  
+}
 
 
