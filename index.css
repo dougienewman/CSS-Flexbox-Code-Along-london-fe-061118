@@ -46,11 +46,11 @@ flex-direction: column;
 
 .setWidthA {
   flex: auto;
+  align-self: flex-end;
 }
 
 .setWidthB {
   flex: none;
-  align-self: flex-end;
 }
 
 .setWidthC {
