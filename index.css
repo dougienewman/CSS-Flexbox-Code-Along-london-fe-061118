@@ -36,7 +36,7 @@ flex-direction: column;
 
 .item {
   width: 100px;
-  height: 100px;
+  
   margin: 5px;
   background-color: #FCF2EC;
 }
