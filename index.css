@@ -57,7 +57,7 @@ flex-direction: column;
 }
 
 .setWidthD {
-  flex: auto;
+  flex: 1;
 }
 
 
