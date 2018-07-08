@@ -27,7 +27,7 @@ footer {
 
 .flex-container {
 display: flex;
-flex-basis: 100%;
+flex-basis: 50%;
 width: 100vw;
 height: 100vh;
 flex-direction: column;
